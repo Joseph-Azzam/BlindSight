@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <mohafazat>
+   <mohafaza>
+     <Example1>1a.JPG</Example1>
+   </mohafaza>
+   <mohafaza>
+     <Example1>2a.JPG</Example1>
+   </mohafaza>
+   <mohafaza>
+     <Example1>3a.JPG</Example1>
+   </mohafaza>
+   <mohafaza>
+     <Example2>1b.JPG</Example2>
+   </mohafaza>
+   <mohafaza>
+     <Example2>2b.JPG</Example2>
+   </mohafaza>
+   <mohafaza>
+     <Example2>3b.JPG</Example2>
+   </mohafaza>
+  </mohafazat>
+</response>
